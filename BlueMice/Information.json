@@ -5,10 +5,10 @@
     "announcement": "Enjoy!",
     "Game": {
       "maintenance": true,
+      "icone": "https://media.discordapp.net/attachments/809869357479624765/810311027111362610/kimmymice2.jpg",
       "announcement": "Creating pvp server..."
     },
     "Topic": [
-      { ID: 0, "Avatar": "https://media.discordapp.net/attachments/809869357479624765/810311027111362610/kimmymice2.jpg", "Content": "Click here for play!" },
       { "ID": 1, "Avatar": "https://media.discordapp.net/attachments/809869357479624765/810310810500333578/sceau-patte-aventures.png", "Content": "Forum." },
       { "ID": 2, "Avatar": "https://cdn.discordapp.com/attachments/809869357479624765/810314925377060914/pawzroo.jpg", "Content": "How to play." }
     ]
