@@ -1,16 +1,28 @@
 {
-  "Discord": "https://discord.gg/6pPDkjUsd8",
+  "Discord": {
+   "inviteTo": "https://discord.gg/6pPDkjUsd8",
+    "owners": ["Depwesso#5335", "Kenjaise#6666", "Dpdz Official#2891"]
+  },
   "Launcher": {
+    "AI": {
+      "version": "1.0.0.0",
+      "title": "BM-Launcher",
+      "description": "External menu for better access to BlueMice!",
+      "copyright": "Copyright ©  2021"
+    },
     "working": true,
     "announcement": "Enjoy!",
     "Game": {
       "maintenance": true,
-      "icone": "https://media.discordapp.net/attachments/809869357479624765/810311027111362610/kimmymice2.jpg",
-      "announcement": "Creating pvp server..."
+      "avatar": "https://media.discordapp.net/attachments/809869357479624765/810311027111362610/kimmymice2.jpg",
+      "status": "Creating pvp server..."
     },
     "Topic": [
       { "ID": 1, "Avatar": "https://media.discordapp.net/attachments/809869357479624765/810310810500333578/sceau-patte-aventures.png", "Content": "Forum." },
-      { "ID": 2, "Avatar": "https://cdn.discordapp.com/attachments/809869357479624765/810314925377060914/pawzroo.jpg", "Content": "How to play." }
+      { "ID": 2, "Avatar": "https://media.discordapp.net/attachments/809869357479624765/810310810500333578/sceau-patte-aventures.png", "Content": "aaaaaaaa" },
+      { "ID": 3, "Avatar": "https://media.discordapp.net/attachments/809869357479624765/810310810500333578/sceau-patte-aventures.png", "Content": "bbbbbbbb" },
+      { "ID": 4, "Avatar": "https://media.discordapp.net/attachments/809869357479624765/810310810500333578/sceau-patte-aventures.png", "Content": "cccccccc" },
+      { "ID": 5, "Avatar": "https://cdn.discordapp.com/attachments/809869357479624765/810314925377060914/pawzroo.jpg", "Content": "How to play." }
     ]
   }
 }
