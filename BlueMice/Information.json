@@ -11,11 +11,11 @@
       "copyright": "Copyright ©  2021"
     },
     "working": true,
-    "announcement": "Enjoy!",
+    "announcement": "...",
     "Game": {
-      "maintenance": true,
+      "maintenance": false,
       "avatar": "https://media.discordapp.net/attachments/809869357479624765/810311027111362610/kimmymice2.jpg",
-      "status": "Creating pvp server..."
+      "status": "I hope you like it, enjoy!"
     },
     "Topic": [
       { "ID": 1, "Avatar": "https://media.discordapp.net/attachments/809869357479624765/810310810500333578/sceau-patte-aventures.png", "Content": "Forum." },
